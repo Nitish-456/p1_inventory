@@ -1,0 +1,7 @@
+[2025-06-01 20:01:36] ADD: Product: Asus Laptop, Price: 45060.0, Quantity: 5
+[2025-06-01 20:03:19] ADD: Product: HP Laptop, Price: 46005.0, Quantity: 4
+[2025-06-01 20:03:54] ADD: Product: Samsung Book 5, Price: 50125.0, Quantity: 12
+[2025-06-01 20:04:24] ADD: Product: Alienware H16, Price: 125012.0, Quantity: 2
+[2025-06-01 20:04:53] ADD: Product: Logitech Keyboard M5, Price: 15000.0, Quantity: 5
+[2025-06-01 20:05:12] ADD: Product: Logitech Mouse M5, Price: 2500.0, Quantity: 5
+[2025-06-01 20:05:55] UPDATE: Product: Logitech Keyboard M5, New Price: 3200.0, New Quantity: 5
